@@ -1,1 +1,7 @@
 
+{
+  "name": "Tim Beaver",
+  "likes": ["dams", "engineering"],
+  "hasTowel": true,
+  "widgets": 42
+}
